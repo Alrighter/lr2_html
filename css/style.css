@@ -1,0 +1,316 @@
+.blockLeft {
+    position: absolute;
+    width: 388px;
+    height: 1893px;
+    left: 39px;
+    top: 36px;
+
+    background: #1E2939;
+}
+.picture {
+    position: absolute;
+    width: 388px;
+    height: 358px;
+    top: 50px;
+}
+.contactText{
+    position: absolute;
+    width: 102px;
+    height: 27px;
+    left: 66px;
+    top: 495px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.number{
+    position: absolute;
+    width: 218px;
+    height: 27px;
+    left: 66px;
+    top: 541px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+    color: #FFFFFF;
+
+}
+.email{  
+    position: absolute;
+    width: 335px;
+    height: 27px;
+    left: 66px;
+    top: 568px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.techSkillsText{
+    position: absolute;
+    width: 118px;
+    height: 27px;
+    left: 66px;
+    top: 614px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+color: #FFFFFF;
+}
+.techSkillsList{
+    position: absolute;
+    width: 110px;
+    height: 27px;
+    left: 66px;
+    top: 660px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+.softSkillsText{
+    position: absolute;
+    width: 110px;
+    height: 27px;
+    left: 66px;
+    top: 930px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+    color: #FFFFFF;
+
+}
+.softSkillsList{
+    position: absolute;
+    width: 149px;
+    height: 27px;
+    left: 66px;
+    top: 976px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.studentText{
+    position: absolute;
+    width: 75px;
+    height: 22px;
+    left: 486px;
+    top: 143px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+.romanZhykhorText{
+    position: absolute;
+    width: 399px;
+    height: 59px;
+    left: 486px;
+    top: 177px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 59px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+.currentPlaceOfWork{
+    position: absolute;
+    width: 527px;
+    height: 66px;
+    left: 486px;
+    top: 280px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+.scientificConferencesText{
+    position: absolute;
+width: 483px;
+height: 29px;
+left: 486px;
+top: 413px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.scientificConferencesList{
+    position: absolute;
+    width: 728px;
+    height: 66px;
+    left: 486px;
+    top: 450px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+}
+.workExperienceText{
+    position: absolute;
+width: 212px;
+height: 29px;
+left: 486px;
+top: 568px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+.workExperienceList{
+    position: absolute;
+width: 77px;
+height: 22px;
+left: 486px;
+top: 609px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.educationText{
+    position: absolute;
+    width: 127px;
+    height: 29px;
+    left: 486px;
+    top: 685px;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+.educaionInfo{
+    position: absolute;
+    width: 660px;
+    height: 132px;
+    left: 486px;
+    top: 722px;
+}
+.timing1, .timing2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 250;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #000000;
+}
+.education1, .education2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #FB906A;
+}
+.specializationEdu{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #000000;
+}
+.iCanDoThisText{
+    position: absolute;
+    width: 151px;
+    height: 29px;
+    left: 486px;
+    top: 980px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #000000;
+    
+}
+.iCanDoThisList{
+    position: absolute;
+    width: 143px;
+    height: 88px;
+    left: 486px;
+    top: 1020px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    
+    
+    color: #000000;
+}
