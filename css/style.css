@@ -1,3 +1,4 @@
+/* Синій блок */
 .blockLeft {
     position: absolute;
     width: 388px;
@@ -7,12 +8,14 @@
 
     background: #1E2939;
 }
+/* Мармизка */
 .picture {
     position: absolute;
     width: 388px;
     height: 358px;
     top: 50px;
 }
+/* Текст контактів */
 .contactText{
     position: absolute;
     width: 102px;
@@ -28,6 +31,7 @@
     /* identical to box height */
     color: #FFFFFF;
 }
+/* Контактний номер */
 .number{
     position: absolute;
     width: 218px;
@@ -44,6 +48,7 @@
     color: #FFFFFF;
 
 }
+/* Електронна пошта */
 .email{  
     position: absolute;
     width: 335px;
@@ -59,6 +64,7 @@
     /* identical to box height */
     color: #FFFFFF;
 }
+/* Хард скіли назва */
 .techSkillsText{
     position: absolute;
     width: 118px;
@@ -73,9 +79,9 @@
     line-height: 27px;
     /* identical to box height */
 
-
-color: #FFFFFF;
+    color: #FFFFFF;
 }
+/* список хард скілів */
 .techSkillsList{
     position: absolute;
     width: 110px;
@@ -91,6 +97,7 @@ color: #FFFFFF;
     /* identical to box height */
     color: #FFFFFF;
 }
+/* софт скіли назва */
 .softSkillsText{
     position: absolute;
     width: 110px;
@@ -105,8 +112,8 @@ color: #FFFFFF;
     line-height: 27px;
     /* identical to box height */
     color: #FFFFFF;
-
 }
+/* софт скіли список */
 .softSkillsList{
     position: absolute;
     width: 149px;
@@ -124,6 +131,7 @@ color: #FFFFFF;
 
     color: #FFFFFF;
 }
+/* назва професії */
 .studentText{
     position: absolute;
     width: 75px;
@@ -138,9 +146,9 @@ color: #FFFFFF;
     line-height: 22px;
     /* identical to box height */
 
-
     color: #000000;
 }
+/* Ім'я і прізвище */
 .romanZhykhorText{
     position: absolute;
     width: 399px;
@@ -155,9 +163,9 @@ color: #FFFFFF;
     line-height: 59px;
     /* identical to box height */
 
-
     color: #000000;
 }
+/* Поточне місце роботи */
 .currentPlaceOfWork{
     position: absolute;
     width: 527px;
@@ -173,6 +181,7 @@ color: #FFFFFF;
 
     color: #000000;
 }
+/* наукові конференції */
 .scientificConferencesText{
     position: absolute;
 width: 483px;
@@ -188,6 +197,7 @@ line-height: 29px;
 
 color: #000000;
 }
+/* список наукових конференцій */
 .scientificConferencesList{
     position: absolute;
     width: 728px;
@@ -201,6 +211,7 @@ color: #000000;
     font-size: 18px;
     line-height: 22px;
 }
+/* досвід роботи */
 .workExperienceText{
     position: absolute;
 width: 212px;
@@ -216,6 +227,7 @@ line-height: 29px;
 
 color: #000000;
 }
+/* список місць роботи */
 .workExperienceList{
     position: absolute;
 width: 77px;
@@ -233,6 +245,7 @@ line-height: 22px;
 
 color: #000000;
 }
+/* місце навчання */
 .educationText{
     position: absolute;
     width: 127px;
@@ -248,6 +261,7 @@ color: #000000;
 
     color: #000000;
 }
+/* інформація про навчання */
 .educaionInfo{
     position: absolute;
     width: 660px;
@@ -255,6 +269,7 @@ color: #000000;
     left: 486px;
     top: 722px;
 }
+/* час коли навчався стиль тексту*/
 .timing1, .timing2{
     font-family: Montserrat;
     font-style: normal;
@@ -264,6 +279,7 @@ color: #000000;
 
     color: #000000;
 }
+/* місце де навчався стиль тексту */
 .education1, .education2{
     font-family: Montserrat;
     font-style: normal;
@@ -273,6 +289,7 @@ color: #000000;
 
     color: #FB906A;
 }
+/* спеціалізація */
 .specializationEdu{
     font-family: Montserrat;
     font-style: normal;
@@ -282,6 +299,7 @@ color: #000000;
     
     color: #000000;
 }
+/* Я можу це зробити (додаткове завдання) */
 .iCanDoThisText{
     position: absolute;
     width: 151px;
@@ -298,6 +316,7 @@ color: #000000;
     color: #000000;
     
 }
+/* Я можу це зробити (додаткове завдання) список*/
 .iCanDoThisList{
     position: absolute;
     width: 143px;
