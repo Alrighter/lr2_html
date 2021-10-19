@@ -1,27 +1,27 @@
 /* Синій блок */
 .blockLeft {
     position: absolute;
-    width: 388px;
-    height: 1893px;
-    left: 39px;
-    top: 36px;
+    width: 26%;
+    height: 1200px;
+    left: 3%;
 
+    word-wrap: break-word;
     background: #1E2939;
 }
 /* Мармизка */
 .picture {
-    position: absolute;
-    width: 388px;
-    height: 358px;
-    top: 50px;
+    margin-top: 10%;
+    width: 100%;
+}
+.info{
+    word-wrap: break-word;
+    position: relative;
+    top: 5px;
+    left: 3%;
 }
 /* Текст контактів */
 .contactText{
-    position: absolute;
-    width: 102px;
-    height: 27px;
-    left: 66px;
-    top: 495px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -33,11 +33,7 @@
 }
 /* Контактний номер */
 .number{
-    position: absolute;
-    width: 218px;
-    height: 27px;
-    left: 66px;
-    top: 541px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -50,11 +46,7 @@
 }
 /* Електронна пошта */
 .email{  
-    position: absolute;
-    width: 335px;
-    height: 27px;
-    left: 66px;
-    top: 568px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -66,11 +58,7 @@
 }
 /* Хард скіли назва */
 .techSkillsText{
-    position: absolute;
-    width: 118px;
-    height: 27px;
-    left: 66px;
-    top: 614px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -83,11 +71,7 @@
 }
 /* список хард скілів */
 .techSkillsList{
-    position: absolute;
-    width: 110px;
-    height: 27px;
-    left: 66px;
-    top: 660px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -99,11 +83,7 @@
 }
 /* софт скіли назва */
 .softSkillsText{
-    position: absolute;
-    width: 110px;
-    height: 27px;
-    left: 66px;
-    top: 930px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -115,11 +95,7 @@
 }
 /* софт скіли список */
 .softSkillsList{
-    position: absolute;
-    width: 149px;
-    height: 27px;
-    left: 66px;
-    top: 976px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -128,16 +104,17 @@
     line-height: 27px;
     /* identical to box height */
 
-
     color: #FFFFFF;
+}
+.more_info{
+    position: absolute;
+    top: 5%;
+    left: 35%;
+    word-wrap: break-word;
 }
 /* назва професії */
 .studentText{
-    position: absolute;
-    width: 75px;
-    height: 22px;
-    left: 486px;
-    top: 143px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -150,11 +127,7 @@
 }
 /* Ім'я і прізвище */
 .romanZhykhorText{
-    position: absolute;
-    width: 399px;
-    height: 59px;
-    left: 486px;
-    top: 177px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -167,11 +140,7 @@
 }
 /* Поточне місце роботи */
 .currentPlaceOfWork{
-    position: absolute;
-    width: 527px;
-    height: 66px;
-    left: 486px;
-    top: 280px;
+    position: relative;
 
     font-family: Montserrat;
     font-style: normal;
@@ -183,27 +152,19 @@
 }
 /* наукові конференції */
 .scientificConferencesText{
-    position: absolute;
-width: 483px;
-height: 29px;
-left: 486px;
-top: 413px;
+    position: relative;
 
-font-family: Montserrat;
-font-style: normal;
-font-weight: 600;
-font-size: 24px;
-line-height: 29px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
 
-color: #000000;
+    color: #000000;
 }
 /* список наукових конференцій */
 .scientificConferencesList{
-    position: absolute;
-    width: 728px;
-    height: 66px;
-    left: 486px;
-    top: 450px;
+    position: relative;
     
     font-family: Montserrat;
     font-style: normal;
@@ -213,46 +174,31 @@ color: #000000;
 }
 /* досвід роботи */
 .workExperienceText{
-    position: absolute;
-width: 212px;
-height: 29px;
-left: 486px;
-top: 568px;
+    position: relative;
 
-font-family: Montserrat;
-font-style: normal;
-font-weight: 600;
-font-size: 24px;
-line-height: 29px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
 
 color: #000000;
 }
 /* список місць роботи */
 .workExperienceList{
-    position: absolute;
-width: 77px;
-height: 22px;
-left: 486px;
-top: 609px;
+    position: relative;
 
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 18px;
-line-height: 22px;
-/* identical to box height */
-
-
-color: #000000;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    color: #000000;
 }
 /* місце навчання */
 .educationText{
-    position: absolute;
-    width: 127px;
-    height: 29px;
-    left: 486px;
-    top: 685px;
-
+    position: relative;
     font-family: Montserrat;
     font-style: normal;
     font-weight: 600;
@@ -263,11 +209,7 @@ color: #000000;
 }
 /* інформація про навчання */
 .educaionInfo{
-    position: absolute;
-    width: 660px;
-    height: 132px;
-    left: 486px;
-    top: 722px;
+    position: relative;
 }
 /* час коли навчався стиль тексту*/
 .timing1, .timing2{
@@ -301,11 +243,7 @@ color: #000000;
 }
 /* Я можу це зробити (додаткове завдання) */
 .iCanDoThisText{
-    position: absolute;
-    width: 151px;
-    height: 29px;
-    left: 486px;
-    top: 980px;
+    position: relative;
     
     font-family: Montserrat;
     font-style: normal;
@@ -318,11 +256,7 @@ color: #000000;
 }
 /* Я можу це зробити (додаткове завдання) список*/
 .iCanDoThisList{
-    position: absolute;
-    width: 143px;
-    height: 88px;
-    left: 486px;
-    top: 1020px;
+    position: relative;
     
     font-family: Montserrat;
     font-style: normal;
@@ -330,6 +264,9 @@ color: #000000;
     font-size: 18px;
     line-height: 22px;
     
-    
     color: #000000;
+}
+a {
+    color: black;
+    font-weight: 600;
 }
